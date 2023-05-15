@@ -1,5 +1,5 @@
 <?php
-
+//this is my Encryption code 
 require_once 'bcrypt.php';
 
 // SALT
